@@ -1,3 +1,5 @@
+// "Checking Sum of two prime numbers"
+
 #include <iostream>
 using namespace std;
 int func(int num) {
@@ -24,3 +26,4 @@ int main() {
    }
    return 0;
 }
+// Suyash Vetal
